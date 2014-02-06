@@ -69,7 +69,7 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-        var networkState = checkConnection();
+        var networkState = app.checkConnection();
         /* load local files if there is not network connection */
            if (networkState == Connection.NONE) {
                console.log('no connection'); 

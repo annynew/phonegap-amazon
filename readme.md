@@ -1,0 +1,2 @@
+# Loading amazon with phonegap #
+

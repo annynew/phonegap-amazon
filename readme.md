@@ -1,2 +1,4 @@
-# Loading amazon with phonegap #
+phonegap-amazon
+===============
 
+phonegap loading amazon web site

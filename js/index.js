@@ -75,7 +75,7 @@ var app = {
                console.log('no connection'); 
                app.showAlert("Can not connect to Internet", "INFO");
            } else {
-        	   window.location="http://www.amazon.com";
+        	   window.location="https://wem-dev-ext.optum.com";
            }
 
     }
